@@ -4,3 +4,4 @@ slikovni izrezek Pinout mikroporcesorja iz CubeMX:
 
 okno od TIM1 configuration-parameter settings [5%] ter ADC configuration-parameter settings:
 ![image](https://user-images.githubusercontent.com/97598727/197708755-ecc529df-9a99-47c2-9fbb-0c8cb33f40f4.png)
+
