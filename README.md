@@ -17,3 +17,8 @@ Slika potenciometra:
 
 ![image_67201025 (1)](https://user-images.githubusercontent.com/97598727/200509814-f41bec29-beb6-4767-83db-6fc05e3bf1a4.JPG)
 
+Komentar:
+- Imela sva težave pri programiranju, prvič ko sva naredila program je kazalo brez napak, potem pa je v programu javljalo napake.
+
+
+
