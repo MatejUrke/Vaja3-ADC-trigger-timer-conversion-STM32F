@@ -11,7 +11,7 @@ Odgovori na vprašanja:
 - Aktiviramo samo zeleno LED diodo na ustreznem izhodu ___PC15_______.
 - V Clock Configuration spremenimo APB1 Timer clock (MHz) na 16 MHz
 (pritisnemo ENTER). Kaj opazite? ________________spremeni se cela veja________________________.
-- V razdelku TIM1, pod Counter Settings, bi radi časovniku spremenili frekvenco na 1 kHz, zato moramo frekvenco ABP1 Timer Clock preskalirati v polju Prescaler (PSC – 16 bit value). Koliko znaša ta vrednost? ________10000 Hz________. Vpišite to vrednost v zahtevano polje.
+- V razdelku TIM1, pod Counter Settings, bi radi časovniku spremenili frekvenco na 1 kHz, zato moramo frekvenco ABP1 Timer Clock preskalirati v polju Prescaler (PSC – 16 bit value). Koliko znaša ta vrednost? ________16000 Hz________. Vpišite to vrednost v zahtevano polje.
 
 Slika potenciometra: 
 
